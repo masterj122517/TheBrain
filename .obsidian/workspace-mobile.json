@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Main Notes/机器学习.md",
+            "file": "Main Notes/HTML.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Main Notes/机器学习.md",
+            "file": "Main Notes/HTML.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -131,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Main Notes/机器学习.md",
+            "file": "Main Notes/HTML.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -156,7 +156,12 @@
   "active": "a8626140515cc2fa",
   "lastOpenFiles": [
     "Main Notes/提高效率（成功的秘诀）打造一个不会不成功的环境.md",
+    "Main Notes/机器学习.md",
+    "Main Notes/HTML.md",
+    "Main Notes/CSS.md",
     "Source Material/机器学习 （周志华）.md",
+    "Source Material/HTML.md",
+    "Source Material/how to unfuck your brain.md",
     "Tags/Productivity.md"
   ]
 }
