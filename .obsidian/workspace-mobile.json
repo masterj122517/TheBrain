@@ -132,9 +132,23 @@
               "icon": "lucide-file",
               "title": "Think 9月10日"
             }
+          },
+          {
+            "id": "7f8b6da55d417e18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Debug日志/Day0.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day0"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -267,10 +281,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33e4c6bc1229c5ad",
+  "active": "7f8b6da55d417e18",
   "lastOpenFiles": [
-    "Main Notes/25.6.30.md",
+    "Debug日志/Day1.md",
+    "Debug日志/Day0.md",
+    "Main Notes/Untitled.md",
+    "Main Notes/fromthetransistor.md",
+    "Debug日志",
+    "Main Notes/10月13.md",
     "Main Notes/Think 9月10日.md",
+    "Main Notes/25.6.30.md",
     "Main Notes/方法论.md",
     "Main Notes/《活在此时此刻》.md",
     "Main Notes/Zen.md",
@@ -289,9 +309,6 @@
     "Main Notes/成为读书笔记.md",
     "Main Notes/机器学习.md",
     "Main Notes/提高效率（成功的秘诀）打造一个不会不成功的环境.md",
-    "Main Notes/HTML.md",
-    "Main Notes/CSS.md",
-    "Source Material/机器学习 （周志华）.md",
-    "Tags/Productivity.md"
+    "Main Notes/HTML.md"
   ]
 }
