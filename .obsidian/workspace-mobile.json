@@ -337,8 +337,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4fe71821c8b7d049",
+  "active": "f70ee6c0c9a5d38a",
   "lastOpenFiles": [
+    "Untitled",
     "Debug日志/day5.md",
     "day more.md",
     "Debug日志/day4.md",
@@ -364,7 +365,6 @@
     "Source Material/HTML.md",
     "Source Material/how to unfuck your brain.md",
     "Main Notes/Python.md",
-    "Main Notes/梦.md",
-    "Main Notes/Making my own redis.md"
+    "Main Notes/梦.md"
   ]
 }
