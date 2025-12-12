@@ -20,8 +20,51 @@
               "icon": "lucide-file",
               "title": "Day3"
             }
+          },
+          {
+            "id": "b460ee0d5e67908a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Debug日志/dayN (restart).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dayN (restart)"
+            }
+          },
+          {
+            "id": "7d6e0d27d7ac745c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "test"
+            }
+          },
+          {
+            "id": "252205a1765caa24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "template/Working.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Working"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -169,8 +212,27 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "55e48d69bc24bfa8",
+  "active": "252205a1765caa24",
   "lastOpenFiles": [
+    "template/reinforcement.md",
+    "template/Material Note.md",
+    "template/Learning.md",
+    "template/Full Note.md",
+    "template/Working.md",
+    "Learning/Crafting interpreter.md",
+    "reInforcement/Crafting Interpreter.md",
+    "reInforcement",
+    "Working",
+    "Learning",
+    "未命名.md",
+    "test.md",
+    "未命名 1.md",
+    "Debug日志/day more.md",
+    "Debug日志/dayN+1.md",
+    "Debug日志/dayN (restart).md",
+    "day more.md",
+    "Debug日志/day5.md",
+    "Debug日志/day4.md",
     "Debug日志/Day3.md",
     "Debug日志/Day2.md",
     "Source Material/深入理解计算机系统.md",
@@ -181,31 +243,14 @@
     "Source Material/how to unfuck your brain.md",
     "Source Material/HTML.md",
     "Main Notes/成为读书笔记.md",
-    "Main Notes/梦.md",
-    "Main Notes/Making my own redis.md",
-    "Main Notes/HTML.md",
-    "Main Notes/OS.md",
-    "Main Notes/Python.md",
-    "Main Notes/机器学习.md",
-    "Main Notes/CSS.md",
-    "Main Notes/JavaScript.md",
-    "Source Material/算法导论.md",
-    "Source Material/第一章：计算机系统漫游.md",
-    "Tags/Algorithm.md",
     "未命名 1.canvas",
-    "Main Notes/2025-05-20.md",
     "未命名.canvas",
-    "Main Notes/第一章： 信息.md",
-    "Tags/OS.md",
-    "Main Notes/提高效率（成功的秘诀）打造一个不会不成功的环境.md",
-    "Main Notes/2025-05-19.md",
     "~/books",
     "~",
     "Main Notes",
     "template",
     "Index",
     "Tags",
-    "Source Material",
-    "Rough Note"
+    "Source Material"
   ]
 }
