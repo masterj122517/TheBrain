@@ -1,1 +1,6 @@
-{}
+{
+  "interfaceFontFamily": "JetBrainsMono Nerd Font,LXGW WenKai",
+  "textFontFamily": "Comic Code,LXGW WenKai",
+  "monospaceFontFamily": "FiraCode Nerd Font",
+  "translucency": true
+}

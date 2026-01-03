@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/Working.md",
+                "file": "2026年01月01日.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Working"
+              "title": "2026年01月01日"
             }
           }
         ],
@@ -214,11 +214,11 @@
   },
   "active": "252205a1765caa24",
   "lastOpenFiles": [
+    "template/Working.md",
     "template/reinforcement.md",
     "template/Material Note.md",
     "template/Learning.md",
     "template/Full Note.md",
-    "template/Working.md",
     "Learning/Crafting interpreter.md",
     "reInforcement/Crafting Interpreter.md",
     "reInforcement",
