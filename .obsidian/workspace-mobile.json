@@ -195,16 +195,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "day more.md",
+                "file": "temple.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "day more"
+              "title": "temple"
+            }
+          },
+          {
+            "id": "8fea9f38f3beda7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pain.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pain"
+            }
+          },
+          {
+            "id": "1576dc5b69a2aac0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025年12月26日 随笔.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025年12月26日 随笔"
+            }
+          },
+          {
+            "id": "6f93dae750230a55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026年01月01日.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026年01月01日"
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -337,9 +379,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f70ee6c0c9a5d38a",
+  "active": "6f93dae750230a55",
   "lastOpenFiles": [
-    "Untitled",
+    "2025年12月26日 随笔.md",
+    "2026年01月01日.md",
+    "pain.md",
+    "temple.md",
+    "blog",
     "Debug日志/day5.md",
     "day more.md",
     "Debug日志/day4.md",
@@ -362,9 +408,6 @@
     "Tags/Algorithm.md",
     "Source Material/算法导论.md",
     "Source Material/How To Become A Hacker.md",
-    "Source Material/HTML.md",
-    "Source Material/how to unfuck your brain.md",
-    "Main Notes/Python.md",
-    "Main Notes/梦.md"
+    "Source Material/HTML.md"
   ]
 }
