@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026年01月01日.md",
+                "file": "2026-06-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026年01月01日"
+              "title": "2026-06-03"
             }
           }
         ],
@@ -203,7 +203,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -214,6 +214,7 @@
   },
   "active": "252205a1765caa24",
   "lastOpenFiles": [
+    "2026-06-03.md",
     "template/Working.md",
     "template/reinforcement.md",
     "template/Material Note.md",
@@ -242,7 +243,6 @@
     "Source Material/How To Become A Hacker.md",
     "Source Material/how to unfuck your brain.md",
     "Source Material/HTML.md",
-    "Main Notes/成为读书笔记.md",
     "未命名 1.canvas",
     "未命名.canvas",
     "~/books",
